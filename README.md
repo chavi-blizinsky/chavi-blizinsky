@@ -69,6 +69,16 @@
 
 ![אקורד](https://raw.githubusercontent.com/chavi-blizinsky/akord-music-academy/main/docs/screenshots/studio.png)
 
+### [אטליה – מערכת עבודה מלאה למשרד אדריכלות](https://github.com/chavi-blizinsky/atelier-architecture-studio) · [🔗 אתר חי](https://chavi-blizinsky.github.io/atelier-architecture-studio/)
+**Angular 18 (Signals) · ASP.NET Core 8 Minimal APIs (C#) · Clean Architecture · EF Core · Three.js**
+- עורך תכניות (SVG): קירות, חדרים, דלתות וחלונות, מידות ושטחים בזמן אמת, ובדיקת תקנות בנייה.
+- תלת-ממד שנבנה אוטומטית מהשרטוט, עם מחקר הצללה לפי שעה ועונה.
+- כתב כמויות ועלויות מהשרטוט, ורשימות הזמנה לספקים (טמבור, נירלט, הום סנטר ועוד).
+- לוח השראה: k-means מחלץ פלטה מתמונה, והתאמה לגווני הספקים לפי ΔE.
+- סוכן שמנסח הצעות מחיר, חתימה דיגיטלית, וחוזה ומפרט לקבלן.
+
+![אטליה](https://raw.githubusercontent.com/chavi-blizinsky/atelier-architecture-studio/main/docs/screenshots/planner.png)
+
 ---
 
 ## 🛠️ טכנולוגיות
