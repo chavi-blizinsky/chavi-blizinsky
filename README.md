@@ -57,6 +57,20 @@
 
 ---
 
+## 🎹 פרויקטים ציבוריים
+
+### [אקורד – פלטפורמה חכמה לבית ספר למוזיקה](https://github.com/chavi-blizinsky/akord-music-academy) · [🔗 אתר חי](https://chavi-blizinsky.github.io/akord-music-academy/)
+**ASP.NET Core 8 (C#) · Entity Framework · React · TypeScript · Web Audio · Web MIDI**
+- מנוע שיבוץ אוטומטי (CSP) שמשבץ את כל המערכת בלי התנגשויות, ומציב אחים ברצף.
+- מודל לחיזוי נטישה עם הסבר לכל תחזית, ותחזית הכנסות עונתית.
+- סוכן AI עם כלים שעונה מהנתונים החיים.
+- סטודיו עם אורגנית: 5 כלים, זיהוי אקורדים, הקלטה וייצוא MIDI, מצב לימוד וחיבור מקלדת אמיתית.
+- CI/CD: בדיקות שרת ולקוח ופריסה אוטומטית.
+
+![אקורד](https://raw.githubusercontent.com/chavi-blizinsky/akord-music-academy/main/docs/screenshots/studio.png)
+
+---
+
 ## 🛠️ טכנולוגיות
 
 | תחום | כלים |
